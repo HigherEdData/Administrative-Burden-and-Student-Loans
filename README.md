@@ -1,4 +1,7 @@
-# administrativeloanburden
+# Administrative Burden in Federal Student Loan Repayment, and Socially Stratified Access to Income-Driven Repayment Plans
+
+### Adam Goldstein, Charlie Eaton, Parijat Chakrabarti, Jeremy Cohen, Katie Donnelly
+
 The study considers socially stratified take-up of income-driven repayment plans among federal student loan borrowers with high debt payment burdens.
 
 Qualitative analysis of borrower complaints from the Consumer Financial Protection Bureau are used to document the administrative burdens that pervade borrowers’ experiences of federal student loan repayment. The authors then quantify the combined effects high administrative burden on social stratification of access to federal payment relief programs using administrative data from a 1% national sample of consumer credit reports spanning 2010-2019. Socio-economic and racial gaps
